@@ -1,8 +1,9 @@
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
 name: grouped_list
 description: A Flutter ListView where the list items can be grouped into sections.
 version: 4.1.0
-homepage: https://begnis.dev
-repository: https://github.com/Dimibe/grouped_list
+repository: https://github.com/vladmazur/grouped_list.git
 
 
 environment:
